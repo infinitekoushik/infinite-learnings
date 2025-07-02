@@ -11,8 +11,8 @@
 
 ## 🔹 2. Types of Behavior
 
-- Overt Behavior: Observable (e.g. speaking, running)  
-- Covert Behavior: Internal (e.g. thinking, dreaming)
+- Overt Behavior: Observable (eg. speaking, running)  
+- Covert Behavior: Internal (eg. thinking, dreaming)
 
 ---
 
@@ -63,4 +63,4 @@
 
 ---
 
-🧠 *I study psychology not for exams — but to understand the battlefield of the mind. To defend myself, connect deeper, and stay sharp.*
+🧠 *I study psychology not for exams but to understand the battlefield of the mind. To defend myself, connect deeper and stay sharp.*
