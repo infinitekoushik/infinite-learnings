@@ -9,15 +9,51 @@ I’m documenting everything I study, build, and understand ~ from Diploma to BT
 
 ## 🧠 Areas I’m Exploring
 
-- Computer Science (Diploma to Deep Tech)
-- Machine Learning, Artificial Intelligence, Deep Learning
+## 🛠️ Tech & Research
+
+- CS Fundamentals (Diploma to Deep Tech)
+- Python, GitHub, Web Development, VS Code
+- Machine Learning, Deep Learning, Artificial Intelligence
+- Git, Excel, Linux, and automation tools
+- Scientific Research, Portfolio Building, and Global MS Prep.
+
+---
+
+## 🔬 Physics, Reality & Consciousness
+
 - Quantum Physics, Time, Energy, 11 Dimensions, Dark Energy
-- Consciousness, Reality, and Hyper-Evolution
-- Psychology, Human Behavior, Dark Psychology & Defense Mechanisms
-- Scientific Research, Global MS Paths, and Tech Careers
-- Web Development, Python, GitHub, Linux, Excel, VS Code
-- Anime, Editing, poetry, Philosophy, Literature, Sufferings, Love & Identity
-- Mindfulness, Sensory Isolation, and the Power of Now.
+- Time Dilation, Quantum Entanglement, Space-Time Theories
+- Consciousness, Perception, and Hyper-Evolution
+- Reality Architecture and the limits of human understanding.
+
+---
+
+## 🧠 Psychology & Human Behavior
+
+- Core Psychology, Cognitive Patterns and Emotional Intelligence
+- Dark Psychology, Defense Mechanisms and Mental Shielding
+- Sensory Isolation, Behavioral Analysis and Manipulation Protection
+- Understanding humans at their deepest, rawest levels.
+
+---
+
+## ✨ Creative Exploration
+
+- Anime, Philosophy, Identity and Purpose
+- Deep Poetry on Sufferings, Love, Traumas and Hope
+- Literature, Editing.
+  
+
+---
+
+## 🚀 Why I'm Sharing This
+
+I’m not just learning to get a job.  
+I’m learning to build a self that’s unforgettable  
+in mind, in code, in soul.
+
+This repo is where that journey lives  in public.
+
 
 
 ---
