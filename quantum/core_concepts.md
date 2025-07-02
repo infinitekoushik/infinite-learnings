@@ -26,7 +26,7 @@ This folder contains the key principles of quantum physics, time, energy, 11 dim
 
 ## 🔹 3. Quantum Entanglement
 
-- When two particles become linked — changing one instantly changes the other, even across space  
+- When two particles become linked changing one instantly changes the other, even across space  
 - Einstein called it *"spooky action at a distance"*
 
 ---
