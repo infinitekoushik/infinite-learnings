@@ -77,5 +77,5 @@ And I’m sharing it publicly so I can grow, connect, and inspire.
 
 ## 🚀 Let’s Build
 
-This is only the beginning of the infiniteexverse.
+This is only the beginning of the infinitekoushik.
 
