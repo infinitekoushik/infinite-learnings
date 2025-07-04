@@ -63,4 +63,4 @@
 
 ---
 
-🧠 *I study psychology not for exams but to understand the battlefield of the mind. To defend myself, connect deeper and stay sharp.*
+🧠 *I study psychology to understand the battlefield of the mind. To defend myself, connect deeper and stay sharp.*
